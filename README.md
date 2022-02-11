@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @samuelharris07
 - 👀 I’m interested in Information Technology 
-- 🌱 I’m currently learning Data Science, machine Learning, artificial Intelligence, Python, C# .Net5 and .Net3 core.
+- 🌱 I’m currently learning Data Science, machine Learning, artificial Intelligence, Python, C# .Net and .Net core.
 - 💞️ I’m looking to collaborate on an oppurtunity that would help me to learn and showcase my ability towards various technologies.
 - 📫 Please connect me at samuelharry1995@gmail.com
 
